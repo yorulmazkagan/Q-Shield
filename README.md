@@ -1,4 +1,5 @@
 
+<img width="1901" height="938" alt="QShield" src="https://github.com/user-attachments/assets/82e9aad4-d382-4ab4-b2e2-c06c6561d843" />
 
 # 🛡️ Q-Shield: Hybrid Quantum-Safe 6G Network Slicing
 
