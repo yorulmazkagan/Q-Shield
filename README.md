@@ -6,7 +6,7 @@
 **Uyarı**
 Bu proje, "Turkcell Yarının Teknoloji Liderleri Proje Yarışması" kapsamında geliştirilmiştir. Projenin tüm fikri ve sınai mülkiyet hakları, ilgili taahhütname hükümleri saklı kalmak kaydıyla geliştiriciye aittir. Yazılı izin alınmaksızın kopyalanması, dağıtılması veya ticari amaçla kullanılması yasaktır.
 
-**Q-Shield**, 6G ağ ekosisteminde "Kuantum Kıyameti" (Quantum Apocalypse) olarak adlandırılan gelecekteki siber tehditlere karşı geliştirilmiş, **Hibrit Kuantum Güvenlik (PQC + QKD)** ve **AI Tabanlı Otonom Orkestrasyon** katmanlarını birleştiren vizyoner bir prototiptir.
+**Q-Shield**, 6G ağ ekosisteminde "Kuantum Felaketi" (Quantum Apocalypse) olarak adlandırılan gelecekteki siber tehditlere karşı geliştirilmiş, **Hibrit Kuantum Güvenlik (PQC + QKD)** ve **AI Tabanlı Otonom Orkestrasyon** katmanlarını birleştiren vizyoner bir prototiptir.
 
 ---
 
